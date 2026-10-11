@@ -11,11 +11,11 @@ e download de episódios para ver sem internet.
 
 <br>
 
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.0/Nagare-Setup-0.1.0.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-F47521?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.1/Nagare-Setup-0.1.1.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-F47521?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.0/Nagare-0.1.0.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-1A1C23?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.1/Nagare-0.1.1.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-1A1C23?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
 
-<sub>Versão 0.1.0 · Windows 10 ou 11 · Android 8 ou mais novo · grátis</sub>
+<sub>Versão 0.1.1 · Windows 10 ou 11 · Android 8 ou mais novo · grátis</sub>
 
 <br><br>
 
@@ -102,7 +102,7 @@ Alguns animes antigos ou pouco conhecidos não têm fonte no momento. Tente outr
 <details>
 <summary><b>A legenda não veio em português</b></summary>
 <br>
-O Nagare procura primeiro em português, depois em espanhol e em inglês. Se o episódio tiver mais de uma legenda, dá para trocar no botão <b>Legendas</b> do player.
+O Nagare procura primeiro em português, depois em espanhol e em inglês. Se o episódio tiver mais de uma legenda, dá para trocar no botão <b>Legendas</b> do player. No computador você também pode usar a sua: em <b>Legendas › Adicionar legenda do computador</b>, escolha um arquivo <code>.srt</code> ou <code>.ass</code>. Se ela ficar adiantada ou atrasada, acerte nos botões <b>Adiantar</b> e <b>Atrasar</b> do mesmo menu.
 </details>
 
 <details>
