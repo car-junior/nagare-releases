@@ -11,11 +11,11 @@ e download de episódios para ver sem internet.
 
 <br>
 
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.2.0/Nagare-Setup-0.2.0.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-E63946?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.2.1/Nagare-Setup-0.2.1.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-E63946?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.2.0/Nagare-0.2.0.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-161515?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.2.1/Nagare-0.2.1.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-161515?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
 
-<sub>Versão 0.2.0 · Windows 10 ou 11 · Android 8 ou mais novo · grátis</sub>
+<sub>Versão 0.2.1 · Windows 10 ou 11 · Android 8 ou mais novo · grátis</sub>
 
 <br><br>
 
@@ -98,7 +98,7 @@ e download de episódios para ver sem internet.
 <br>
 Ele se atualiza sozinho. No computador, a versão nova é baixada enquanto você usa e aparece um aviso com o botão <b>Reiniciar</b>. No celular, aparece o aviso <b>Nova versão</b>: toque em <b>Atualizar</b> e depois em <b>Instalar</b>. Sua lista, seu histórico e seus downloads continuam lá.
 <br><br>
-Isso vale a partir da versão 0.2.0. Se o seu Nagare é mais antigo, baixe a versão nova aqui na página uma última vez. No celular, desinstale o antigo antes de instalar.
+Isso vale a partir da versão 0.2.1. Se o seu Nagare é mais antigo, baixe a versão nova aqui na página uma última vez. No celular, desinstale o antigo antes de instalar.
 </details>
 
 <details>
@@ -111,6 +111,12 @@ Alguns animes antigos ou pouco conhecidos não têm fonte no momento. Tente outr
 <summary><b>A legenda não veio em português</b></summary>
 <br>
 O Nagare procura primeiro em português, depois em espanhol e em inglês. Se o episódio tiver mais de uma legenda, dá para trocar no botão <b>Legendas</b> do player. No computador você também pode usar a sua: em <b>Legendas › Adicionar legenda do computador</b>, escolha um arquivo <code>.srt</code> ou <code>.ass</code>. Se ela ficar fora do tempo, toque em <b>Adiantada</b> ou <b>Atrasada</b>, no mesmo menu, conforme você estiver vendo: o Nagare corrige meio segundo por toque.
+</details>
+
+<details>
+<summary><b>As sinopses e os nomes dos episódios estão em inglês</b></summary>
+<br>
+Os textos em português vêm do site TMDB, que pede uma chave gratuita por pessoa. Crie uma conta em <a href="https://www.themoviedb.org/settings/api">themoviedb.org</a>, copie a <b>Chave da API</b> e cole no Nagare: no computador, no <b>ícone do globo</b> no alto da tela; no celular, em <b>Você › Ajustes</b>. Faz uma vez só. As legendas dos episódios não dependem disso.
 </details>
 
 <details>
