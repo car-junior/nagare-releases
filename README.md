@@ -11,9 +11,9 @@ e download de episódios para ver sem internet.
 
 <br>
 
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.2/Nagare-Setup-0.1.2.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-F47521?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.2/Nagare-Setup-0.1.2.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-E63946?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.2/Nagare-0.1.2.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-1A1C23?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.1.2/Nagare-0.1.2.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-161515?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
 
 <sub>Versão 0.1.2 · Windows 10 ou 11 · Android 8 ou mais novo · grátis</sub>
 
