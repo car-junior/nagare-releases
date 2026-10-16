@@ -11,11 +11,11 @@ e download de episódios para ver sem internet.
 
 <br>
 
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.2.1/Nagare-Setup-0.2.1.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-E63946?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.3.0/Nagare-Setup-0.3.0.exe"><img src="https://img.shields.io/badge/Baixar_para_Windows-E63946?style=for-the-badge&logo=windows11&logoColor=white" alt="Baixar para Windows" height="44"></a>
 &nbsp;&nbsp;
-<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.2.1/Nagare-0.2.1.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-161515?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
+<a href="https://github.com/car-junior/nagare-releases/releases/download/v0.3.0/Nagare-0.3.0.apk"><img src="https://img.shields.io/badge/Baixar_para_Android-161515?style=for-the-badge&logo=android&logoColor=white" alt="Baixar para Android" height="44"></a>
 
-<sub>Versão 0.2.1 · Windows 10 ou 11 · Android 8 ou mais novo · grátis</sub>
+<sub>Versão 0.3.0 · Windows 10 ou 11 · Android 8 ou mais novo · grátis</sub>
 
 <br><br>
 
@@ -32,7 +32,7 @@ e download de episódios para ver sem internet.
 | | |
 |---|---|
 | 🎬 **Catálogo sempre atualizado** | Os animes da temporada, os mais assistidos e uma busca por nome ou categoria. |
-| 💬 **Legendas em português** | Quando existe em português, é ela que abre. Se não, espanhol ou inglês. |
+| 💬 **Legendas em português** | Quando existe em português, é ela que abre. No computador, se o episódio só tiver legenda em inglês, o Nagare traduz sozinho. |
 | ⏯️ **Continuar de onde parou** | Fechou no meio? O episódio volta no mesmo ponto, no topo da tela inicial. |
 | ⬇️ **Download de episódios** | Baixe quantos quiser e assista depois, sem internet. |
 | 📚 **Sua lista e seu histórico** | Guarde o que quer ver e encontre o que já viu. |
@@ -98,7 +98,7 @@ e download de episódios para ver sem internet.
 <br>
 Ele se atualiza sozinho. No computador, a versão nova é baixada enquanto você usa e aparece um aviso com o botão <b>Reiniciar</b>. No celular, aparece o aviso <b>Nova versão</b>: toque em <b>Atualizar</b> e depois em <b>Instalar</b>. Sua lista, seu histórico e seus downloads continuam lá.
 <br><br>
-Isso vale a partir da versão 0.2.1. Se o seu Nagare é mais antigo, baixe a versão nova aqui na página uma última vez. No celular, desinstale o antigo antes de instalar.
+Isso vale a partir da versão 0.2.0. Se o seu Nagare é mais antigo, baixe a versão nova aqui na página uma última vez. No celular, desinstale o antigo antes de instalar. No computador, se você instalou o Nagare em <b>Arquivos de Programas</b>, desinstale e instale de novo sem mudar a pasta sugerida: seus dados continuam e, daí em diante, ele se atualiza sozinho.
 </details>
 
 <details>
@@ -111,6 +111,12 @@ Alguns animes antigos ou pouco conhecidos não têm fonte no momento. Tente outr
 <summary><b>A legenda não veio em português</b></summary>
 <br>
 O Nagare procura primeiro em português, depois em espanhol e em inglês. Se o episódio tiver mais de uma legenda, dá para trocar no botão <b>Legendas</b> do player. No computador você também pode usar a sua: em <b>Legendas › Adicionar legenda do computador</b>, escolha um arquivo <code>.srt</code> ou <code>.ass</code>. Se ela ficar fora do tempo, toque em <b>Adiantada</b> ou <b>Atrasada</b>, no mesmo menu, conforme você estiver vendo: o Nagare corrige meio segundo por toque.
+</details>
+
+<details>
+<summary><b>Como funciona a legenda traduzida?</b></summary>
+<br>
+No computador, quando o episódio só tem legenda em inglês, o Nagare traduz para o português no próprio computador, sem internet e sem custo. Na primeira vez que você abre o app, ele baixa o tradutor (cerca de 425 MB) em segundo plano; o andamento aparece no menu <b>Legendas</b> do player. A tradução é automática, então às vezes sai literal. Legendas que vêm como imagem (comum em versões de Blu-ray) não dão para traduzir; nesse caso o Nagare procura outra fonte.
 </details>
 
 <details>
